@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA-TYPE:m3u8
+#EXT-X-ALLOW-CACHE:YES
+#EXTINF:10.0,
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/ybs5jcqp3gsrrryp7roqwpq1baohuugqo1/hdntl=exp=1732302943~acl=*%2Fybs5jcqp3gsrrryp7roqwpq1baohuugqo1%2F*~data=hdntl~hmac=f53c1b8463541fd0678df95b8ee6f1a8e03e06f2f07aacbb1e69823e39c48ef1/chunklist_480.stream.m3u8
